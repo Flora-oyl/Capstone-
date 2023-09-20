@@ -12,7 +12,7 @@
 
 
 
-### Data Cleaning & Transformation Techniques Used
+## Data Cleaning & Transformation Techniques Used
 1. Import Data
 2. Alter Column Name
 3. Remove Column with missing value
