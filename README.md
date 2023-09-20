@@ -1,5 +1,4 @@
 ## Malnutrition Underweight Women Children
-![image](https://github.com/Flora-oyl/Capstone-/assets/145516482/3dd52c05-827b-4981-af76-5edb0a311935)
 
 
 ## Introduction to Dataset
