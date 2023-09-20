@@ -8,6 +8,14 @@ Content : Malnutrition Underweight Women Children & Others from 2011 – 2016
 
 Objective: Determine geographical regions, communities, or countries where malnutrition is most prevalent and severe. This helps prioritize intervention efforts.Besides that, we would like to raise awareness about the importance of addressing malnutrition and advocate for policy changes and funding to support initiatives targeting malnourished children and women.
 
+### Data Cleaning & Transformation Techniques Used
+1. Import Data
+2. Alter Column Name
+3. Remove Column with missing value
+4. Update header row 
+5. Create Table
+6. Merge Table
+
 
 
 
