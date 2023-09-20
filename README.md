@@ -1,6 +1,6 @@
 ## Malnutrition Underweight Women Children
 ## Introduction to Dataset
 
-<The datasets used here have been collected from various reliable sources like: WHO, World Bank, UNICEF and Global Data Lab.     Then it was uploaded to Kaggle for the completion of this project.>
+<sub The datasets used here been collected from various reliable sources like : WHO World Bank UNICEF and Global Data Hub. This data was extracted from Kaggle for completion of this project. >
 
 
