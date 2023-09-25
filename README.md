@@ -5,6 +5,8 @@
 **Origin of Data**: This datasets used here been collected from various reliable sources like : WHO, World Bank, UNICEF and Global Data Hub. This data was extracted from Kaggle for completion of this project.
 
 ### **Content** : Malnutrition Underweight Women & Children from 2011 – 2016
+![Uploading image.png…]()
+
 ------------
 **Role**: As member of National Community of Health, I was assigned a project to analyze malnutrition in children and women around the world. This involves determining geographical regions, communities, or countries where malnutrition is most prevalent and severe. Such analysis helps prioritize intervention efforts.
 
