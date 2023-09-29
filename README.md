@@ -6,7 +6,8 @@
 **Origin of Data**: This datasets used here been collected from various reliable sources like : WHO, World Bank, UNICEF and Global Data Hub. This data was extracted from Kaggle for completion of this project.
 
 ### **Content** : Malnutrition Underweight Women & Children from 2011 – 2016
-![Uploading Dashboard.png…]()
+
+<img width="452" alt="Dashboard" src="https://github.com/Flora-oyl/Capstone-/assets/145516482/68aad1f2-d72a-4eac-8ddc-996490f5a84c">
 
 
 ------------
